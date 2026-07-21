@@ -1,0 +1,38 @@
+ ⨯ ./src/components/ImageField.tsx
+Error: Failed to read source code from C:\Users\apeman\Documents\第一个项目\src\components\ImageField.tsx
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Import trace for requested module:
+./src/components/ImageField.tsx
+./src/components/PropertiesPanel.tsx
+./src/app/page.tsx
+ ⨯ ./src/components/ImageField.tsx
+Error: Failed to read source code from C:\Users\apeman\Documents\第一个项目\src\components\ImageField.tsx
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Import trace for requested module:
+./src/components/ImageField.tsx
+./src/components/PropertiesPanel.tsx
+./src/app/page.tsx
+ ⨯ ./src/components/BuilderContext.tsx
+Error: Failed to read source code from C:\Users\apeman\Documents\第一个项目\src\components\BuilderContext.tsx
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Import trace for requested module:
+./src/components/BuilderContext.tsx
+./src/app/page.tsx
+ ⨯ ./src/components/BuilderContext.tsx
+Error: Failed to read source code from C:\Users\apeman\Documents\第一个项目\src\components\BuilderContext.tsx
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Import trace for requested module:
+./src/components/BuilderContext.tsx
+./src/app/page.tsx
